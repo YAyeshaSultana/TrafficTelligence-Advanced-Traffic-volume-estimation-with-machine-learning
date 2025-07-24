@@ -1,0 +1,2 @@
+# TrafficTelligence-Advanced-Traffic-volume-estimation-with-machine-learning
+This project aims to estimate the number of vehicles passing a road segment within a given hour using weather and time-related inputs. A machine learning model is trained on historical traffic and weather data and is deployed using a Flask web application, allowing users to predict traffic volume dynamically based on input conditions.
